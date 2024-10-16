@@ -1,4 +1,4 @@
- alert("hi tarek");
+
        
         async function sendToGeminiAI(message) {
     try {
