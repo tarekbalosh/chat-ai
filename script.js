@@ -1,4 +1,4 @@
-
+ alert("hi tarek");
         // Function to send the message to the Gemini AI API
         async function sendToGeminiAI(message) {
     try {
