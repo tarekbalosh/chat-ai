@@ -1,5 +1,5 @@
  alert("hi tarek");
-        // Function to send the message to the Gemini AI API
+       
         async function sendToGeminiAI(message) {
     try {
         const response = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDHHJFjSa5oL0WJqwKz0VYTtZSke8080sU', {
